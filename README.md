@@ -62,7 +62,7 @@ flowchart LR
 | 머신러닝 | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EC5E0C?style=for-the-badge)                                                                                                                                                                            |
 | 앱 프레임워크 | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)                                                                                                                                                                                       |
 | 파일 입출력 | ![JSON](https://img.shields.io/badge/json-%234479A1.svg?style=for-the-badge&logo=Json&logoColor=white) ![joblib](https://img.shields.io/badge/joblib-FFCA28?style=for-the-badge)|
-| 버전 관리 | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)                                                                                                                                                                                                |
+| 버전 관리 |![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)                                                                                                                                                                                                |
 
 ---
 ## 📁 폴더 구조
